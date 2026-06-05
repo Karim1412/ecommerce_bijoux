@@ -1,0 +1,1 @@
+import{j as t,m as a}from"./index-BC6ZUTCx.js";function o({children:i}){return t.jsx(a.div,{initial:{opacity:0},animate:{opacity:1},exit:{opacity:0},transition:{duration:.4,ease:"easeInOut"},children:i})}export{o as P};
